@@ -1,0 +1,45 @@
+body{
+
+    background-color: #5c9a37;
+}
+
+.bodyy{
+    text-align: center;
+}
+.imagen{
+
+    width: 800px;
+}
+
+.contenedor{
+   
+}
+
+.coontenedor{
+
+    display: flex;
+}
+
+
+.imagenn{
+    width: 250px;
+    margin-right: 200px;
+}
+.TEXTO{
+    font-size: 20px;
+    width: 750px;
+    margin-left: 150px;
+}
+
+.coonntenedor{
+
+    display: flex;
+}
+.imagennn{
+    width: 450px;
+    margin-left: 200px;
+}
+.TEXTOO{
+    font-size: 30px;
+    align-self: right;
+}
